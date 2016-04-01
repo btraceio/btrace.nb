@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.netbeans.modules.btrace.kit/0
+OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/btrace/kit/Bundle.properties
+OpenIDE-Module-Requires: 
+  org.netbeans.modules.btrace,
+  org.netbeans.modules.btrace.editor,
+  org.netbeans.modules.btrace.project
+OpenIDE-Module-Specification-Version: 1.3.5
+
