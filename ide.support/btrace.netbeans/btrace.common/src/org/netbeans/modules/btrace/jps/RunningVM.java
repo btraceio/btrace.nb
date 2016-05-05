@@ -1,6 +1,4 @@
 /*
- * Copyright (c) 2010, 2016, Jaroslav Bachorik <j.bachorik@btrace.io>.
- * All rights reserved.
  * Copyright 1997-2007 Sun Microsystems, Inc. All rights reserved.
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
  *
@@ -26,6 +24,8 @@
  * The Original Software is NetBeans. The Initial Developer of the Original
  * Software is Sun Microsystems, Inc. Portions Copyright 1997-2006 Sun
  * Microsystems, Inc. All Rights Reserved.
+ *
+ * Portions Copyrighted 2016 Jaroslav Bachorik <j.bachorik@btrace.io>
  *
  * If you wish your version of this file to be governed by only the CDDL
  * or only the GPL Version 2, indicate your decision by adding

@@ -1,13 +1,13 @@
 /*
- * Copyright (c) 2010, 2016, Jaroslav Bachorik <jb@btrace.io>.
+ * Copyright (c) 2010, 2016, Jaroslav Bachorik <j.bachorik@btrace.io>.
  * All rights reserved.
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
  *
  * This code is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License version 2 only, as
- * published by the Free Software Foundation.  Oracle designates this
+ * published by the Free Software Foundation.  Copyright owner designates this
  * particular file as subject to the "Classpath" exception as provided
- * by Oracle in the LICENSE file that accompanied this code.
+ * by the owner in the LICENSE file that accompanied this code.
  *
  * This code is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
@@ -24,7 +24,7 @@ package org.netbeans.modules.btrace.api;
 
 /**
  *
- * @author Jaroslav Bachorik <yardus@netbeans.org>
+ * @author Jaroslav Bachorik 
  */
 abstract public class BTraceSettings {
     abstract public boolean isDebugMode();

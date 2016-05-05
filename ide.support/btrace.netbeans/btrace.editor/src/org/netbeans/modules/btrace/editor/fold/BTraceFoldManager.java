@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2010, 2016, Jaroslav Bachorik <j.bachorik@btrace.io>.
+ * Copyright (c) 2016, Jaroslav Bachorik <j.bachorik@btrace.io>.
  * All rights reserved.
  * Copyright 1997-2010 Sun Microsystems, Inc. All rights reserved.
  *
