@@ -16,3 +16,14 @@ build
 private
 
 genfiles.properties
+/ide.support-maven/ide.support-maven/branding/target/
+/ide.integration/support/target/
+/ide.integration/netbeans.editor/target/
+/ide.integration/editor/target/
+/ide.integration/projects/target/
+/ide.integration/common/target/
+/ide.integration/netbeans.kit/target/
+/ide.integration/target/
+/ide.integration/bundle/target/
+/bundle/target/
+/projects/target/

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/btrace/Bundle.properties
+OpenIDE-Module-Provides: org.netbeans.modules.btrace
+
